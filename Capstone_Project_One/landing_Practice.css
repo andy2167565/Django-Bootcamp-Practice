@@ -1,0 +1,35 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  background: #011627;
+  color: white;
+  border: 60px solid #2EC4B6;
+  border-top: 0px;
+  margin: 0px;
+}
+
+p {
+  padding-top: 5%;
+  padding-left: 20%;
+  padding-right: 20%;
+}
+
+form {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.userinput {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+#sign {
+  background: #FF9F1C;
+  width: 150px;
+  height: 80px;
+  margin: 4px;
+  margin-top: 12px;
+  font-size: 1em;
+  border-radius: 25px;
+}
